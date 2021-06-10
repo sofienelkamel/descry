@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-      DIScry v1.0(beta)
+      DESCRY v1.0(beta)
 </p>
 ## DISCLAIMER
 
