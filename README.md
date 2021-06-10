@@ -75,6 +75,6 @@ Backdoor is a term that refers to the access of the software or hardware of a co
 - sudo python3 server.py
 ![Shot](https://github.com/hades-onion/descry/blob/main/server.png)
 
-#SHELL
+# SHELL
 - Use help to see options
 ![Shot](https://github.com/hades-onion/descry/blob/main/shell.png)
