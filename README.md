@@ -5,7 +5,8 @@
 <p align="center">
       DESCRY v1.0(beta)
 </p>
-## DISCLAIMER
+
+# DISCLAIMER
 
 <p align="center">
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
@@ -19,6 +20,9 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 # DEVELOPERS & CONTRIBUTORS
 
 1. HADES (https://github.com/hades-onion)
+
+# BACKDOOR
+Backdoor is a term that refers to the access of the software or hardware of a computer system without being detected. The backdoor can be created by the developer themselves so that they can quickly and easily make changes to the code without the need to log in to the system.
 
 # SCREENSHOT (Listner)
 ![Shot](https://github.com/hades-onion/descry/blob/main/server.png)
@@ -42,7 +46,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - Python 3.\*
 - termcolor (pip install termcolor)
 
-### Guide 
+# Guide 
 ## 1. BACKDOOR
 - Open backdoor.py with editor(text/script)
 ![Shot](https://github.com/hades-onion/descry/blob/main/backdoor.png)
@@ -70,3 +74,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - sudo chmod +x server.py
 - sudo python3 server.py
 ![Shot](https://github.com/hades-onion/descry/blob/main/server.png)
+
+#SHELL
+- Use help to see options
+![Shot](https://github.com/hades-onion/descry/blob/main/shell.png)
